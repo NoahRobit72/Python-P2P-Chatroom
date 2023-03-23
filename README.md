@@ -5,3 +5,4 @@
 * Search my text messages
 * Share files
 * Play videos / Images
+* Implement a queue to hold messages in process
